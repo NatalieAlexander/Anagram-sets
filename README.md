@@ -5,6 +5,7 @@ Anagran sets allows anagram wordplay, where the user provides a word length e.g.
 
 ## How to Use 🤔
 + Clone this repository to your local machine.
++ Save a lexicon text file as "EnglishWords.txt" in the same directory as your anagramsets.py script.
 + Run the anagramsets.py script.
 + Enter an integer indicating the desired word length.
-+ Enter the name of a given lexicon file. 
++ Enter the name of your output file - this is where your anagram results will be saved.
